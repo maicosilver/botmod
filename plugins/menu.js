@@ -79,7 +79,7 @@ ${more.repeat(1000)}
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
 ║
-╠═〘 Group 〙 ═
+╠═〘 Grupo 〙 ═
 ╠➥ ${_p}add [55xxxxxxxxxxx]
 ╠➥ ${_p}promote [@marcarmembro]
 ╠➥ ${_p}demote [@marcaradm]
@@ -87,7 +87,7 @@ ${more.repeat(1000)}
 ╠➥ ${_p}pengumuman [texto]
 ╠➥ ${_p}hidetag [texto]
 ╠➥ ${_p}listonline
-╠➥ ${_p}kick @Member
+╠➥ ${_p}kick @Removermembro
 ╠➥ ${_p}grouplist
 ║
 ╠═〘 EXPERIMENTAL 〙 ═
