@@ -41,11 +41,11 @@ Cara Tambah XP:
 +1 Exp/pesan biasa
 +10 Exp/command
 
-📟 Horas: ${time}
-📆 Data: ${week}, ${date}
+📟 Waktu: ${time}
+📆 Tanggal: ${week}, ${date}
 
 ${more.repeat(1000)}
-╠═════✪〘 Menu 〙✪═══
+╠═════○〘 Menu 〙○═══
 ║
 ╠═〘 Xp 〙 ═
 ╠➥ ${_p}leaderboard [jumlah user]
