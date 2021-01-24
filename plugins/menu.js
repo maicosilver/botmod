@@ -45,7 +45,7 @@ Cara Tambah XP:
 📆 Tanggal: ${week}, ${date}
 
 ${more.repeat(1000)}
-╠═════✪〘 Menu 〙✪═══
+╠═════◇〘 Menu 〙◇═══
 ║
 ╠═〘 Xp 〙 ═
 ╠➥ ${_p}leaderboard [jumlah user]
@@ -54,9 +54,6 @@ ${more.repeat(1000)}
 ╠➥ ${_p}menu
 ╠➥ ${_p}help
 ╠➥ ${_p}?
-║
-╠═〘 Tutor BoT 〙 ═
-╠➥ ${_p}tutorial
 ║
 ╠═〘 Quotes 〙 ═
 ╠➥ ${_p}bucin
@@ -111,11 +108,11 @@ ${more.repeat(1000)}
 ╠➥ Github: https://github.com/
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
-╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/55999999999
+╠➥ 1
+╠➥ 
+╠➥ 
 ╠═════
-║ Advanced:
+║ Advanced: 
 ║  > return m
 ║
 ╠═〘 BOT Q SO FALA OI 〙═
