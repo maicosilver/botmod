@@ -41,8 +41,8 @@ Cara Tambah XP:
 +1 Exp/pesan biasa
 +10 Exp/command
 
-📟 Waktu: ${time}
-📆 Tanggal: ${week}, ${date}
+📟 Horas: ${time}
+📆 Data: ${week}, ${date}
 
 ${more.repeat(1000)}
 ╠═════✪〘 Menu 〙✪═══
@@ -54,9 +54,6 @@ ${more.repeat(1000)}
 ╠➥ ${_p}menu
 ╠➥ ${_p}help
 ╠➥ ${_p}?
-║
-╠═〘 Tutor BoT 〙 ═
-╠➥ ${_p}tutorial
 ║
 ╠═〘 Quotes 〙 ═
 ╠➥ ${_p}bucin
@@ -111,9 +108,7 @@ ${more.repeat(1000)}
 ╠➥ Github: https://github.com/
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
-╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/55999999999
+╠➥
 ╠═════
 ║ Advanced:
 ║  > return m
