@@ -1,4 +1,4 @@
-# NfQ-BoT
+# BoT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/maicosilver/botmod  
+> cd botmod
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/maicosilver/botmod
+> cd botmod
 > npm install
 ```
 ###### Run
@@ -31,6 +31,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: @arpunchs
+ Instagram: 
  
- Youtube: Drawl Nag
+ Youtube: 
