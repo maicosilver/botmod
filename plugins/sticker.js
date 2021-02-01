@@ -9,8 +9,8 @@ let handler  = async (m, { conn, args }) => {
     if (!img) throw img
     let stiker = await sticker(img)
 stiker = await nStiker(stiker, {
- author: 'You',
- name: 'Stickers'
+ author: '9672-4995',
+ name: 'nokia'
 })
     conn.sendMessage(m.chat, stiker, MessageType.sticker, {
       quoted: m
