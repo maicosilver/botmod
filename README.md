@@ -4,10 +4,10 @@ Simple WhatsApp Bot
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
-> pkg install git
-> pkg install nodejs
-> pkg install ffmpeg
-> pkg install imagemagick
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
 > git clone https://github.com/maicosilver/botmod  
 > cd botmod
 > npm install
