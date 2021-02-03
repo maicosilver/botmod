@@ -85,12 +85,11 @@ ${more.repeat(1000)}
 ╠═〘 Grupo 〙 ═
 ╠➥ ${_p}add [55xxxxxxxxxxx]
 ╠➥ ${_p}promover [@marcarmembro]
-╠➥ ${_p}demote [@marcaradm]
+╠➥ ${_p}rebaixar [@marcaradm]
 ╠➥ ${_p}linkgrup
-╠➥ ${_p}pengumuman [texto]
-╠➥ ${_p}hidetag [texto]
+╠➥ ${_p}anuncio [texto]
 ╠➥ ${_p}listonline
-╠➥ ${_p}kick @Membro
+╠➥ ${_p}ban @Membro
 ╠➥ ${_p}grouplist
 ║
 ╠═〘 EXPERIMENTAL 〙 ═
