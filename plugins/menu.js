@@ -32,17 +32,17 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [BOT Q SO FALA OI] 🤖
+ [MENU DO BOT] 
 
-Hi, ${name} 👋
+Oi, ${name} 👋
 Exp: ${exp}
 
-Cara Tambah XP:
-+1 Exp/pesan biasa
-+10 Exp/command
+Como adicionar XP:
++1 Exp/mensagem normal
++10 Exp/comandos
 
-📟 Waktu: ${time}
-📆 Tanggal: ${week}, ${date}
+ hora: ${time}
+ calendário: ${week}, ${date}
 
 ${more.repeat(1000)}
 ╠═════✪〘 Menu 〙✪═══
@@ -118,7 +118,6 @@ ${more.repeat(1000)}
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 BOT Q SO FALA OI 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
