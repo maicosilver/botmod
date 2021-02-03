@@ -69,7 +69,7 @@ ${more.repeat(1000)}
 ╠➥ ${_p}kapankah
 ╠➥ ${_p}kapan
 ║
-╠═〘 Others 〙 ═
+╠═〘 Outros 〙 ═
 ╠➥ ${_p}qr <texto>
 ╠➥ ${_p}stiker (caption)
 ╠➥ ${_p}stiker <url>
