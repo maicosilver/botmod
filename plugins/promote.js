@@ -3,7 +3,7 @@ let handler = async (m, { conn, args }) => {
   conn.groupMakeAdmin(m.chat, users)
 conn.reply(m.chat, 'adicionado com sucesso como adm!',m)
 }
-handler.command = /^(promote|admin|\^)$/i
+handler.command = /^(promover|admin|\^)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
