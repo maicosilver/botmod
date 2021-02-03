@@ -70,21 +70,21 @@ ${more.repeat(1000)}
 ╠➥ ${_p}kapan
 ║
 ╠═〘 Others 〙 ═
-╠➥ ${_p}qr <teks>
+╠➥ ${_p}qr <texto>
 ╠➥ ${_p}stiker (caption)
 ╠➥ ${_p}stiker <url>
 ╠➥ ${_p}toimg (reply)
 ╠➥ ${_p}ssweb <url>
 ╠➥ ${_p}sswebf <url>
-╠➥ ${_p}google <pencarian>
-╠➥ ${_p}googlef <pencarian>
-╠➥ ${_p}readmore <teks>|<sembunyi>
+╠➥ ${_p}google <pesquisar>
+╠➥ ${_p}googlef <pesquisar>
+╠➥ ${_p}readmore <texto>|<sembunyi>
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
 ║
 ╠═〘 Grupo 〙 ═
 ╠➥ ${_p}add [55xxxxxxxxxxx]
-╠➥ ${_p}promote [@marcarmembro]
+╠➥ ${_p}promover [@marcarmembro]
 ╠➥ ${_p}demote [@marcaradm]
 ╠➥ ${_p}linkgrup
 ╠➥ ${_p}pengumuman [texto]
