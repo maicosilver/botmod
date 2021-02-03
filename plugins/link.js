@@ -1,7 +1,7 @@
 let handler = async (m, { conn, args }) => {
   conn.reply(m.chat, 'https://chat.whatsapp.com/' + (await conn.groupInviteCode(m.chat)), m)
 }
-handler.command = /^link(gro?up)?$/i
+handler.command = /^link(gro?upo)?$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
