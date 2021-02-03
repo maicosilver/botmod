@@ -79,7 +79,7 @@ ${more.repeat(1000)}
 ╠➥ ${_p}google <pesquisar>
 ╠➥ ${_p}googlef <pesquisar>
 ╠➥ ${_p}readmore <texto>|<sembunyi>
-╠➥ ${_p}quran
+╠➥ ${_p}sites
 ╠➥ ${_p}modApk
 ║
 ╠═〘 Grupo 〙 ═
