@@ -6,7 +6,7 @@ Juz 1 ⇨ 😏
 
 `.trim(), m)
 }
-handler.command = /^(quran)$/i
+handler.command = /^(sites)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
