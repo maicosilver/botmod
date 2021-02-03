@@ -3,7 +3,7 @@ let handler = async (m, { conn, args }) => {
   conn.groupDemoteAdmin(m.chat, users)
 conn.reply(m.chat, 'você removeu o cargo de adm!',m)
 }
-handler.command = /^(demote|member|v)$/i
+handler.command = /^(rebaixar|membro|v)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
