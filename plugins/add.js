@@ -1,7 +1,7 @@
 let handler = async (m, { conn, args }) => {
   let users = args.join` `.split`,`.map(v => v.replace(/[^0-9]/g/, '') + '@s.whatsapp.net').filter(v => v.length > 20)
   await conn.groupAdd(m.chat, user)
-conn.reply(m.chat, 'Gagal menambahkan kontak mungkin karena di privat',m)
+conn.reply(m.chat, 'Falha ao adicionar contato, talvez porque é privado',m)
 }
 handler.command = /^(add|\+)$/i
 handler.owner = false
