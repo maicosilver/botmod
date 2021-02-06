@@ -1,6 +1,8 @@
 # BoT
 Simple WhatsApp Bot
 
+Nome
+
 ### FOR TERMUX USER
 ```bash
 > pkg update && pkg upgrade
